@@ -24,7 +24,8 @@ b=np.array([5,-3])
 print(np.linalg.solve(a,b))
 ```
 ## Output:
-![Alt text](<Screenshot 2023-12-03 175455.png>)
+![Screenshot 2023-12-03 175455](https://github.com/niroshamuthukumar/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/151830921/1d846680-ca9a-49ab-bdd4-f10a5e7cfa86)
+
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
